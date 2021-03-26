@@ -48,7 +48,7 @@ Seu desafio é construir este aplicativo Rastreador de Endereços de IPs e fazê
 
 ---
 
-⚠️ **IMPORTANT** ⚠️: Para usar a API de geolocalização por IP da IPify, você precisa se inscrever para uma conta gratuita. Você não precisará adicionar detalhes de cartões para fazer isso e é um processo muito rápido. Isso irá gerar uma chave API para você. Normalmente, você seria capaz de restringir sua chave de API a um URL específico (seu próprio domínio). Isso garante que outras pessoas não possam usar sua chave de API em seus próprios sites. O IPify não tem esse recurso, mas como você não está adicionando os detalhes do seu cartão, isso não é um problema. **Portanto, certifique-se de se inscrever apenas para a conta gratuita e NÃO insira os detalhes do cartão**.
+⚠️ **IMPORTANTE** ⚠️ : Para usar a API de geolocalização por IP da IPify, você precisa se inscrever para uma conta gratuita. Você não precisará adicionar detalhes de cartões para fazer isso e é um processo muito rápido. Isso irá gerar uma chave API para você. Normalmente, você seria capaz de restringir sua chave de API a um URL específico (seu próprio domínio). Isso garante que outras pessoas não possam usar sua chave de API em seus próprios sites. O IPify não tem esse recurso, mas como você não está adicionando os detalhes do seu cartão, isso não é um problema. **Portanto, certifique-se de se inscrever apenas para a conta gratuita e NÃO insira os detalhes do cartão**.
 
 Para a API de mapeamento, recomendamos o uso do [LeafletJS](https://leafletjs.com/). O uso é gratuito e não requer uma chave de API. Se você decidir usar outra API, como Google Maps ou Mapbox, certifique-se de proteger sua chave de API. Aqui estão os guias para o Google Maps e o Mapbox, certifique-se de lê-los completamente:
 
@@ -59,4 +59,4 @@ Expor sua chave de API publicamente pode fazer com que outras pessoas a usem par
 
 ---
 
-** Boa sorte e faça o teste da forma que você se sentir confortável.** 🚀
+** Boa sorte e faça o teste da forma que você se sentir confortável**. 🚀
